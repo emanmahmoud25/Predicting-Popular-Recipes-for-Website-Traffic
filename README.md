@@ -2,7 +2,8 @@
 
 # Predicting Popular Recipes for Website Traffic
 
-![DALL·E 2024-09-21 11 32 06 - A visual representation of a popular recipe prediction project, showing a block of recipe images on a website, with one recipe highlighted for high tr](https://github.com/user-attachments/assets/dcc9939c-a249-4aea-a3d4-34b151aafc0f)
+![DALL·E 2024-09-21 11 32 06 - A visual representation of a popular recipe prediction project, showing a block of recipe images on a website, with one recipe highlighted for high tr](https://github.com/user-attachments/assets/1e333c50-041b-499b-ab63-6df48d7e5246)
+
 
 
 
