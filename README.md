@@ -2,7 +2,8 @@
 
 # Predicting Popular Recipes for Website Traffic
 
-![DALL·E 2024-09-21 11 32 06 - A visual representation of a popular recipe prediction project, showing a block of recipe images on a website, with one recipe highlighted for high tr](https://github.com/user-attachments/assets/c2773a70-3446-4659-9eca-36965084a8de)
+![DALL·E 2024-09-21 11 32 06 - A visual representation of a popular recipe prediction project, showing a block of recipe images on a website, with one recipe highlighted for high tr](https://github.com/user-attachments/assets/7e8492fa-e47f-47ec-821b-ac8517fa8b56)
+
 
 ## Project Overview
 This project aims to predict which recipes will lead to high website traffic for a recipe discovery platform. The goal is to help the product team display popular recipes on the homepage, increasing site traffic and boosting subscription rates.
