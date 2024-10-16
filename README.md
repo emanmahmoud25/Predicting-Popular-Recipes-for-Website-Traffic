@@ -2,7 +2,7 @@
 
 # Predicting Popular Recipes for Website Traffic
 
-![DALL·E 2024-09-21 11 32 06 - A visual representation of a popular recipe prediction project, showing a block of recipe images on a website, with one recipe highlighted for high tr](https://github.com/user-attachments/assets/1e333c50-041b-499b-ab63-6df48d7e5246)
+![DALL·E 2024-09-21 11 32 06 - A visual representation of a popular recipe prediction project, showing a block of recipe images on a website, with one recipe highlighted for high tr]![recipe](https://github.com/user-attachments/assets/1b4f4586-f4c8-462b-bffd-24229ef6f178)
 
 
 
@@ -31,7 +31,7 @@ The dataset contains key features about recipes, including:
 5. **Business Metric**: Developed a business metric to monitor the performance of the recipe selection process.
 
 ## Key Findings
-- The model achieved an accuracy of **82%**, making it a valuable tool for predicting popular recipes.
+- The model achieved an accuracy of **84%**, making it a valuable tool for predicting popular recipes.
 [![accuracy](https://github.com/user-attachments/assets/1d6fe608-fe06-41ae-818c-27cea045a7f9)](https://github.com/user-attachments/assets/1d6fe608-fe06-41ae-818c-27cea045a7f9)
 
 -  ![download](https://github.com/user-attachments/assets/c96f6702-f979-4b7a-b7db-9a1025853a42)
