@@ -2,7 +2,7 @@
 
 # Predicting Popular Recipes for Website Traffic
 
-![DALL·E 2024-09-21 11 32 06 - A visual representation of a popular recipe prediction project, showing a block of recipe images on a website, with one recipe highlighted for high tr]![recipe](https://github.com/user-attachments/assets/1b4f4586-f4c8-462b-bffd-24229ef6f178)
+(https://github.com/user-attachments/assets/1b4f4586-f4c8-462b-bffd-24229ef6f178)
 
 
 
@@ -27,7 +27,10 @@ The dataset contains key features about recipes, including:
 3. **Model Development**: Built a machine learning model to predict high-traffic recipes based on their features.
    - Baseline model: [Describe baseline model]
    - Comparison model: [Describe comparison model]
-     <img width="384" alt="compare" src="https://github.com/user-attachments/assets/f9a8cbff-14c1-44bf-bfa2-2e62991e1d5d">
+     
+   <img width="384" alt="compare" src="https://github.com/user-attachments/assets/f9a8cbff-14c1-44bf-bfa2-2e62991e1d5d">
+
+     
 4. **Model Evaluation**: Compared the models based on performance metrics such as accuracy and recall.
 5. **Business Metric**: Developed a business metric to monitor the performance of the recipe selection process.
 
