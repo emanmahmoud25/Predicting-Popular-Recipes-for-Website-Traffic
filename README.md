@@ -2,8 +2,7 @@
 
 # Predicting Popular Recipes for Website Traffic
 
-(https://github.com/user-attachments/assets/1b4f4586-f4c8-462b-bffd-24229ef6f178)
-
+![recipe](https://github.com/user-attachments/assets/9bd206bc-b302-4b95-aea5-8a6a5c00f103)
 
 
 
