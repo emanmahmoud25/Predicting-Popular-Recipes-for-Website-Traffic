@@ -27,14 +27,15 @@ The dataset contains key features about recipes, including:
 3. **Model Development**: Built a machine learning model to predict high-traffic recipes based on their features.
    - Baseline model: [Describe baseline model]
    - Comparison model: [Describe comparison model]
+     <img width="384" alt="compare" src="https://github.com/user-attachments/assets/f9a8cbff-14c1-44bf-bfa2-2e62991e1d5d">
 4. **Model Evaluation**: Compared the models based on performance metrics such as accuracy and recall.
 5. **Business Metric**: Developed a business metric to monitor the performance of the recipe selection process.
 
 ## Key Findings
 - The model achieved an accuracy of **84%**, making it a valuable tool for predicting popular recipes.
-[![accuracy](https://github.com/user-attachments/assets/1d6fe608-fe06-41ae-818c-27cea045a7f9)](https://github.com/user-attachments/assets/1d6fe608-fe06-41ae-818c-27cea045a7f9)
+ ![download](https://github.com/user-attachments/assets/a929905f-9161-458f-84d5-2f14e85c667a)
 
--  ![download](https://github.com/user-attachments/assets/c96f6702-f979-4b7a-b7db-9a1025853a42)
+![number_r](https://github.com/user-attachments/assets/716bbba5-be04-49e5-b71f-9b4572df1093)
 
 
 ## Recommendations
